@@ -1,0 +1,31 @@
+[13-Mar-2021 23:12:48 America/Fortaleza] PHP Fatal error:  Uncaught InvalidArgumentException: Route callable must be callable in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php:158
+Stack trace:
+#0 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php(101): Slim\Route->setCallable('login')
+#1 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(429): Slim\Route->__construct('/login', 'login')
+#2 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(471): Slim\Slim->mapRoute(Array)
+#3 /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php(28): Slim\Slim->post('/login', 'login')
+#4 {main}
+  thrown in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php on line 158
+[13-Mar-2021 23:13:51 America/Fortaleza] PHP Warning:  require_once(../APIS/Slim/Slim.php): failed to open stream: No such file or directory in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:13:51 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../APIS/Slim/Slim.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:14:16 America/Fortaleza] PHP Warning:  require_once(../APIS/Slim/Slim.php): failed to open stream: No such file or directory in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:14:16 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../APIS/Slim/Slim.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:14:22 America/Fortaleza] PHP Warning:  require_once(../APIS/Slim/Slim.php): failed to open stream: No such file or directory in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:14:22 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '../APIS/Slim/Slim.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php on line 14
+[13-Mar-2021 23:14:35 America/Fortaleza] PHP Fatal error:  Uncaught InvalidArgumentException: Route callable must be callable in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php:158
+Stack trace:
+#0 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php(101): Slim\Route->setCallable('login')
+#1 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(429): Slim\Route->__construct('/login', 'login')
+#2 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(471): Slim\Slim->mapRoute(Array)
+#3 /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php(28): Slim\Slim->post('/login', 'login')
+#4 {main}
+  thrown in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php on line 158
+[13-Mar-2021 23:14:46 America/Fortaleza] PHP Fatal error:  Uncaught InvalidArgumentException: Route callable must be callable in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php:158
+Stack trace:
+#0 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php(101): Slim\Route->setCallable('login')
+#1 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(429): Slim\Route->__construct('/login', 'login')
+#2 /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Slim.php(471): Slim\Slim->mapRoute(Array)
+#3 /home2/proj7703/projetro.com/ws/vila-nova/controllers/ws/index.php(28): Slim\Slim->post('/login', 'login')
+#4 {main}
+  thrown in /home2/proj7703/projetro.com/ws/vila-nova/apis/Slim/Route.php on line 158
+[25-Mar-2021 21:47:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/proj7703/superhorti.com.br/ws/vila-nova/controllers-/ws/index.php on line 151

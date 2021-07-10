@@ -1,0 +1,7 @@
+[20-Jan-2021 11:28:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 131
+[20-Jan-2021 11:28:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 131
+[26-Jan-2021 23:39:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 336
+[27-Jan-2021 00:15:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected '" | "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 326
+[27-Jan-2021 00:19:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected '*' in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 309
+[27-Jan-2021 14:44:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 371
+[27-Jan-2021 14:45:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/proj7703/superhorti.com.br/ws/controllers/WS/index.php on line 371
